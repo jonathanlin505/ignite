@@ -1,19 +1,26 @@
 {
   "files": {
-    "main.js": "/static/js/main.e1a6cb5b.chunk.js",
-    "main.js.map": "/static/js/main.e1a6cb5b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.39ce9e3f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.39ce9e3f.js.map",
-    "static/js/2.478ccdc1.chunk.js": "/static/js/2.478ccdc1.chunk.js",
-    "static/js/2.478ccdc1.chunk.js.map": "/static/js/2.478ccdc1.chunk.js.map",
-    "static/js/3.dda27cfb.chunk.js": "/static/js/3.dda27cfb.chunk.js",
-    "static/js/3.dda27cfb.chunk.js.map": "/static/js/3.dda27cfb.chunk.js.map",
-    "index.html": "/index.html",
-    "static/js/2.478ccdc1.chunk.js.LICENSE.txt": "/static/js/2.478ccdc1.chunk.js.LICENSE.txt"
+    "main.js": "/ignite/static/js/main.1c051982.chunk.js",
+    "main.js.map": "/ignite/static/js/main.1c051982.chunk.js.map",
+    "runtime-main.js": "/ignite/static/js/runtime-main.f28f4593.js",
+    "runtime-main.js.map": "/ignite/static/js/runtime-main.f28f4593.js.map",
+    "static/js/2.02d61f70.chunk.js": "/ignite/static/js/2.02d61f70.chunk.js",
+    "static/js/2.02d61f70.chunk.js.map": "/ignite/static/js/2.02d61f70.chunk.js.map",
+    "static/js/3.b899e078.chunk.js": "/ignite/static/js/3.b899e078.chunk.js",
+    "static/js/3.b899e078.chunk.js.map": "/ignite/static/js/3.b899e078.chunk.js.map",
+    "index.html": "/ignite/index.html",
+    "static/js/2.02d61f70.chunk.js.LICENSE.txt": "/ignite/static/js/2.02d61f70.chunk.js.LICENSE.txt",
+    "static/media/apple.f7ac2201.svg": "/ignite/static/media/apple.f7ac2201.svg",
+    "static/media/gamepad.c9269ef5.svg": "/ignite/static/media/gamepad.c9269ef5.svg",
+    "static/media/logo.9b6b8655.svg": "/ignite/static/media/logo.9b6b8655.svg",
+    "static/media/nintendo.f579be04.svg": "/ignite/static/media/nintendo.f579be04.svg",
+    "static/media/playstation.18cc4b9c.svg": "/ignite/static/media/playstation.18cc4b9c.svg",
+    "static/media/steam.d7b8819f.svg": "/ignite/static/media/steam.d7b8819f.svg",
+    "static/media/xbox.3e7db735.svg": "/ignite/static/media/xbox.3e7db735.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.39ce9e3f.js",
-    "static/js/2.478ccdc1.chunk.js",
-    "static/js/main.e1a6cb5b.chunk.js"
+    "static/js/runtime-main.f28f4593.js",
+    "static/js/2.02d61f70.chunk.js",
+    "static/js/main.1c051982.chunk.js"
   ]
 }
